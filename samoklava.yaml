@@ -1,13 +1,13 @@
 units:
-  kx: cx
-  ky: cy
+  kx: U
+  ky: u
   px: 2
   py: 2
 points:
   key:
     footprints:
       choc_hotswap:
-        type: choc
+        type: mx
         params:
           hotswap: true
           reverse: true
